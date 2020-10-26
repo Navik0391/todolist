@@ -1,2 +1,2 @@
 # todolist
-to do list application in php &amp; mysql
+todolist application in php &amp; mysql
